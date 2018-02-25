@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>manual.txt</file>
+        <file>release_note.txt</file>
+    </qresource>
+</RCC>

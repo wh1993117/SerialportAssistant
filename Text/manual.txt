@@ -1,0 +1,4 @@
+<h3 align=center><font color=blue>发送方式说明</font></h3>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;本软件包含两种发送方式：<font color=red>“帧发送”</font>和<font color=red>“字节发送”</font></p></br>
+<p><font color=red>帧发送：</font>帧发送指的是，输入框中的所有数据组成一帧数据，发送时，一次性发送一帧数据。</p></br>
+<p><font color=red>字节发送：</font>字节发送指的是，输入框中的所有数据组成多帧数据，每帧数据只包含一个字节的数据。</p>
